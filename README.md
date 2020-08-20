@@ -2,6 +2,8 @@
 
 ## Build Setup
 
+#### nuxtjs部署demo，放自己的UI只是纯属凑内容
+
 ```bash
 # install dependencies
 $ npm install
